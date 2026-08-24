@@ -1,0 +1,19 @@
+html, body {
+  background-color: rgb(13, 13, 14);
+  font-family: Arial;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  background-color: white;
+}
+
+h3 {
+  color: rgb(97, 98, 209);
+  font-size: 20px;
+}
+
+h4 {
+  color: rgb(87, 107, 221);
+}
